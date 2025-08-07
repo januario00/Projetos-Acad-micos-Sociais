@@ -12,8 +12,8 @@ Projeto voltado para conscientização e valorização dos direitos dos idosos, 
 🔗 Acesse o site:  
 [https://anasoares2505.wixsite.com/leis-para-idosos](https://anasoares2505.wixsite.com/leis-para-idosos)
 
-📄 PDF do Projeto:  
-[📘 Projeto - Cuidar e Compartilhar (Idosos)](./Projeto-Idosos.pdf)
+📄 Link do Projeto:  
+[📘 Projeto - Cuidar e Compartilhar (Idosos)]([./Projeto-Idosos.pdf])
 
 ---
 
